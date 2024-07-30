@@ -1,15 +1,14 @@
 body {
-    width: 200px;
-    font-family: Arial, sans-serif;
-  }
-  
-  h1 {
-    font-size: 16px;
-  }
-  
-  #colorDisplay {
-    margin-top: 10px;
-    padding: 10px;
-    border: 1px solid #ccc;
-  }
-  
+  width: 200px;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  font-size: 16px;
+}
+
+#colorDisplay {
+  margin-top: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
